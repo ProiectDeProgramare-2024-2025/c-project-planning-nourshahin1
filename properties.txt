@@ -1,0 +1,5 @@
+Villa|123 Palm St|500000|350|5|3|1
+Apartment|45 Maple Rod|150000|80|2|1|0
+Townhouse|67 Sunsore Blvd|250000|200|4|3|1
+Cozy Cottage|12 Main Road|788888|540|8|3|1
+Cozy Apartment|56 Main Street|233344|200|9|4|0
